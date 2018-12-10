@@ -8,7 +8,9 @@ The Movie Database (TMBd) is a movie and TV database which offers information su
 The data set used in this analysis contains about 10,000 movies.
 
 Research Questions?
-Are there any differences in popularity over time?
-Are high budget movies popular?
-What are the most popular, expensive, revenue-generating and profitable movies?
-What kind of movie genres are popular?
+<ul>
+  <li>Are there any differences in popularity over time?</li>
+  <li>Are high budget movies popular?</li>
+ <li>What are the most popular, expensive, revenue-generating and profitable movies?</li>
+  <li>What kind of movie genres are popular?</li>
+</ul>
